@@ -21,19 +21,23 @@ git clone https://github.com/jpita/mocha-api-test.git
 
 3. Navigate to the project directory:
 
-   ```bash
-    cd mocha-api-test
-   ```
+```bash
+cd mocha-api-test
+```
 
 4. Install the project dependencies:
-   ```bash
-   npm install
-   ```
+
+```bash
+npm install
+```
+
 5. Get a token from https://ide.bitquery.io and replace the `YOUR_API_KEY` in the `query.test.mjs` file with your token.
+
 6. Run the tests:
-   ```bash
-   npm test
-   ```
+
+```bash
+npm test
+```
 
 ## Test Explanation
 
